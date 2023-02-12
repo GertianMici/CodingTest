@@ -1,7 +1,7 @@
 ﻿using ProArch.CodingTest.External;
 using System;
 
-namespace ProArch.CodingTest.Invoices
+namespace ProArch.CodingTest.Models.FailoverInvoices
 {
     public class FailoverInvoiceCollection
     {
@@ -10,7 +10,7 @@ namespace ProArch.CodingTest.Invoices
 
         public FailoverInvoiceCollection()
         {
-            this.Invoices = new ExternalInvoice[0];
+            Invoices = new ExternalInvoice[0];
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace ProArch.CodingTest.Suppliers
+﻿namespace ProArch.CodingTest.Models.Suppliers
 {
     public class Supplier
     {

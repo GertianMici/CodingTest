@@ -1,4 +1,4 @@
-﻿namespace ProArch.CodingTest.Summary
+﻿namespace ProArch.CodingTest.Models.Summaries
 {
     public class SpendDetail
     {

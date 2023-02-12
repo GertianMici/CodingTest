@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProArch.CodingTest.Invoices
+namespace ProArch.CodingTest.Models.Invoices
 {
     public class Invoice
     {
